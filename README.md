@@ -1,3 +1,6 @@
+# Note on "Login after logout" script:
+**Step "Then user on the login page" (test9) fails because it is expected that in financial app after logout from user account, a password is required for re-entry.**
+
 # qa_automation_integration_test_task
 
 **valid email: wiotest@gmail.com**
