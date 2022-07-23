@@ -1,0 +1,4 @@
+targets:
+  $default:
+    sources:
+      - integration_test/runner.dart
